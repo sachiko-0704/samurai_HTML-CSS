@@ -19,7 +19,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => 'c4590b4e8589666fb09ed3196eb5a6b0f70a021c',
+    'reference' => '440ee091d58cfde4df2f1bb2e70d93391a85c09d',
     'name' => '__root__',
   ),
   'versions' => 
@@ -31,7 +31,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => 'c4590b4e8589666fb09ed3196eb5a6b0f70a021c',
+      'reference' => '440ee091d58cfde4df2f1bb2e70d93391a85c09d',
     ),
     'guzzlehttp/guzzle' => 
     array (
@@ -69,6 +69,15 @@ private static $installed = array (
       ),
       'reference' => '446fc9faa5c2a9ddf65eb7121c0af7e857295241',
     ),
+    'phpoption/phpoption' => 
+    array (
+      'pretty_version' => '1.7.5',
+      'version' => '1.7.5.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '994ecccd8f3283ecf5ac33254543eb0ac946d525',
+    ),
     'psr/http-message' => 
     array (
       'pretty_version' => '1.0.1',
@@ -93,6 +102,15 @@ private static $installed = array (
       array (
       ),
       'reference' => '120b605dfeb996808c31b6477290a714d356e822',
+    ),
+    'symfony/polyfill-ctype' => 
+    array (
+      'pretty_version' => 'v1.19.0',
+      'version' => '1.19.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'aed596913b70fae57be53d86faa2e9ef85a2297b',
     ),
     'symfony/polyfill-intl-idn' => 
     array (
@@ -129,6 +147,15 @@ private static $installed = array (
       array (
       ),
       'reference' => 'beecef6b463b06954638f02378f52496cb84bacc',
+    ),
+    'vlucas/phpdotenv' => 
+    array (
+      'pretty_version' => 'v4.1.8',
+      'version' => '4.1.8.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '572af79d913627a9d70374d27a6f5d689a35de32',
     ),
   ),
 );
